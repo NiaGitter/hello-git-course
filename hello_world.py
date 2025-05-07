@@ -1,3 +1,3 @@
-print("Hello Wolrd!")
+print("Hello wolrd!")
 print("Hello from feature")
 
